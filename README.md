@@ -38,3 +38,7 @@
 2021-01-25 21:51:11.066  INFO 451901 --- [           main] name.mrkandreev.camel.MyApplication      : Started MyApplication in 0.951 seconds (JVM running for 1.192)
 2021-01-25 21:51:12.400  INFO 451901 --- [timer://runOnce] name.mrkandreev.camel.MyRoute            : Items count = '11'
 ```
+
+# Solution
+
+Use azure api directly :)
